@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;controlefluxo.ControledeFluxo&apos; to &apos;Contador&apos;&#x0D;&#x0A;- Original project: &apos;ControledeFluxo&apos;&#x0D;&#x0A;- Original element: &apos;controlefluxo.ControledeFluxo&apos;&#x0D;&#x0A;- Renamed element: &apos;controlefluxo.Contador&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ControledeFluxo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;controlefluxo{ControledeFluxo.java[ControledeFluxo" matchStrategy="1" name="Contador" qualified="false" references="true" similarDeclarations="false" stamp="1699992591992" textual="false" version="1.0"/>
+</session>
